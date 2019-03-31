@@ -28,3 +28,11 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) )-->
+
+### Day 1: March 30, 2019 
+
+**Today's Progress**: Completed the FCC Tribute Page project
+
+**Thoughts:** This was a wonderful project to work on for me to brush-up on my HTML and CSS.
+
+**Link to work:** [FCC Tribute Page - Tim Berners-Lee](https://codepen.io/technickology/pen/NmKBOK)
